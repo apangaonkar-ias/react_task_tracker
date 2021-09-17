@@ -9,7 +9,7 @@ function App() {
     [
         {
             id:1,
-            text: 'Go to Pheonix',
+            text: 'Visit Market',
             day: '30 Sept at 5:30pm',
             reminder: false,
         },
